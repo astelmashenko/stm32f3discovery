@@ -1,3 +1,5 @@
 {
-    "rust-analyzer.cargo.features": "all"
+    "rust-analyzer.cargo.features": "all",
+    "cortex-debug.armToolchainPath.linux": "",
+    "cortex-debug.openocdPath": ""
 }
